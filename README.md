@@ -20,7 +20,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [X] https://leetcode.com/problems/fruit-into-baskets/
 - [X] https://leetcode.com/problems/longest-substring-without-repeating-characters/ (Blind)
-- [ ] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
+- [X] https://leetcode.com/problems/longest-repeating-character-replacement/ (Blind)
 - [ ] https://leetcode.com/problems/max-consecutive-ones-iii/
 - [ ] https://leetcode.com/problems/permutation-in-string/
 - [ ] https://leetcode.com/problems/find-all-anagrams-in-a-string/
