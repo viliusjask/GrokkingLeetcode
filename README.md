@@ -25,7 +25,7 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/permutation-in-string/
 - [X] https://leetcode.com/problems/find-all-anagrams-in-a-string/
 - [X] https://leetcode.com/problems/minimum-window-substring/ (Blind)
-- [ ] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+- [X] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 
 ## Pattern: Islands(Matrix Traversal)
 - [ ] https://leetcode.com/problems/number-of-islands/ (Blind)
