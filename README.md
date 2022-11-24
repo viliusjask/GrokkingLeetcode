@@ -39,9 +39,9 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 - [X] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - [X] https://leetcode.com/problems/squares-of-a-sorted-array/
-- [ ] https://leetcode.com/problems/3sum/ (Blind)
-- [ ] https://leetcode.com/problems/3sum-closest/
-- [ ] https://leetcode.com/problems/3sum-smaller/
+- [X] https://leetcode.com/problems/3sum/ (Blind)
+- [X] https://leetcode.com/problems/3sum-closest/
+- [X] https://leetcode.com/problems/3sum-smaller/
 - [ ] https://leetcode.com/problems/subarray-product-less-than-k/
 - [ ] https://leetcode.com/problems/sort-colors/
 - [ ] https://leetcode.com/problems/4sum/
