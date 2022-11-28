@@ -42,8 +42,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/3sum/ (Blind)
 - [X] https://leetcode.com/problems/3sum-closest/
 - [X] https://leetcode.com/problems/3sum-smaller/
-- [ ] https://leetcode.com/problems/subarray-product-less-than-k/
-- [ ] https://leetcode.com/problems/sort-colors/
+- [X] https://leetcode.com/problems/subarray-product-less-than-k/
+- [X] https://leetcode.com/problems/sort-colors/
 - [ ] https://leetcode.com/problems/4sum/
 - [ ] https://leetcode.com/problems/backspace-string-compare/
 - [ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
