@@ -49,8 +49,8 @@ https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357
 - [X] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 
 ## Pattern: Fast & Slow pointers
-- [ ] https://leetcode.com/problems/linked-list-cycle/ (Blind)
-- [ ] https://leetcode.com/problems/linked-list-cycle-ii/
+- [X] https://leetcode.com/problems/linked-list-cycle/ (Blind)
+- [X] https://leetcode.com/problems/linked-list-cycle-ii/
 - [ ] https://leetcode.com/problems/happy-number/
 - [ ] https://leetcode.com/problems/middle-of-the-linked-list/
 - [ ] https://leetcode.com/problems/palindrome-linked-list/
